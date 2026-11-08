@@ -5,4 +5,4 @@
 - And、OR、比較級
 ## 2. 相關知識
 
- - [[02-Instruction Cycle指令循環.md]]
+ - [[02-Instruction Cycle指令循環]]
